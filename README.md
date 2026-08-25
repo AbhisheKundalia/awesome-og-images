@@ -18,6 +18,7 @@ Open Graph images are the preview images shown when you share a link on social m
 ### Free / Freemium
 
 - **[OG:IMAGE](https://ogimage.art)** - Simple API that generates beautiful OG images. One URL = one image. 8 templates, $9/mo Pro tier. `GET /api/og?title=Hello`
+- **[OG Forge](https://og-forge.xyz)** - Open-source OG image API. One GET request, ~35ms render, no headless browser. 5 templates, free tier (10 img/min, no signup) + $9/mo Pro. `GET /v1/generate?title=Hello`. MIT: [github.com/Ray68597/og-forge](https://github.com/Ray68597/og-forge)
 - **[Vercel OG](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation)** - Generate dynamic OG images at the edge using React components. Free for Vercel users.
 - **[Cloudinary](https://cloudinary.com/documentation/social_media_image_generation)** - Image transformation API with OG image support. Free tier available.
 
