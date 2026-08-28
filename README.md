@@ -27,6 +27,10 @@ Open Graph images are the preview images shown when you share a link on social m
 - **[Placid](https://placid.app/)** - Design templates and generate images via API. From $19/mo.
 - **[RoboHash](https://robohash.org/)** - Generate unique robot avatars. Free, useful for placeholder OG images.
 
+### Self-Hosted
+
+- **[SnapOG](https://github.com/nagpalarpit/snapog)** - Self-hosted OG image API for Cloudflare Workers. Deploy to your own account, sub-100ms cached, no third party in the request path. MIT licensed.
+
 ## Libraries
 
 ### JavaScript/TypeScript
